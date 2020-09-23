@@ -1,4 +1,5 @@
 {
   "emmet.includeLanguages": { "javascript": "javacrriptreact" },
-  "emmet.syntaxProfiles": { "javascript": "jsx" }
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "editor.fontSize": 16
 }
